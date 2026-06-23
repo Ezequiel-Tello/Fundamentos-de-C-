@@ -3,7 +3,7 @@
 #include <string>
 
 using namespace std;
-
+// ¡PROGRAMA PARA CAFETERIA!
 struct Producto
 {
     string nombre;
